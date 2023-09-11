@@ -3,7 +3,7 @@
 ### *Automatically dub any video into English while keeping the original voice styles*
 
 ### Setup:
-1. Clone the repo: git clone https://github.com/EliasLindbergs/ai-video-dubber.git
+1. Clone the repo: *git clone https://github.com/EliasLindbergs/ai-video-dubber.git*
 2. Download the following pre-trained models and place them in the corresponding folders:
 - epoch_2nd_00050.pth (download link: https://drive.google.com/file/d/1nm0yB6Y5QWF3FYGfJCwQ6zYNlOAYVSet/view) in Models/LibriTTS
 - g_00935000 (download link: https://drive.google.com/file/d/1RDxYknrzncGzusYeVeDo38ErNdczzbik/view) in Vocoder/LibriTTS
